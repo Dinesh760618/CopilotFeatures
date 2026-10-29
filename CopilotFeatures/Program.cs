@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Welcome to KIOT Sample Github Project")
-
+Console.WriteLine("Checking-2");
 
 int[] numbers = [12, 7, 25, 18, 9];
 
